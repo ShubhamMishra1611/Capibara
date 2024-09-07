@@ -15,7 +15,9 @@ The included methods are:
 
 ## Usage
 
-Each method is implemented as a Python function in its respective file. Here’s a brief example of how to use these methods:
+Each method is implemented as a Python function in its respective file obv.
+
+Heres the app [Click me](https://shubhammishra1611-capibara-app-0w7340.streamlit.app/)
 
 ### Euler’s Method
 
@@ -48,3 +50,5 @@ To run thoguh interactive streamlit app just
 #!bin/bash
 streamlit run app.py
 ```
+
+
